@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToyOnline</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="other_email_address">Other Email address</string>
+    <string name="request">Request</string>
+    <string name="accept">Accept</string>
+    <string name="play_again">Play again</string>
+</resources>
